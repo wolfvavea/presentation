@@ -19,7 +19,11 @@ admin@planetpintar.net
 .image mondry/m_register.png 500 _
 
 * Register
+- Nama
 - No Telp
+- E-mail
+- Alamat
+- Password
 
 * Aktivasi Email
 .image mondry/m_email.png 500 _
